@@ -1,0 +1,1 @@
+"%ProgramFiles%\Google\Chrome\Application\chrome.exe" textnow.com/login discord.com irccloud.com github.com imgur.com facebook.com shell.cloud.google.com gmail.com hotmail.com dropbox.com codepen.io whr.mooo.com
